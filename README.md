@@ -1,7 +1,6 @@
 <!--[![Masterhead] ("https://opensistemas.com/wp-content/uploads/2021/02/Microsoft-Datacenter-Quincy-2.jpg")](https://opensistemas.com/)-->
 <h1 align="center">Hi everyone 👋, I'm Souleimen Belhadj</h1>
 <h3 align="center">A passionate to learn new things every day and stay up to date with front and back technology</h3>
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/96356684/188452129-df3dcbe5-f56a-4a9c-ad04-9db53b0b37f6.png">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=souleimenblh&label=Profile%20views&color=0e75b6&style=flat" alt="souleimenblh" /> </p>
 
 
