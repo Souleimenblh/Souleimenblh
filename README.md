@@ -3,7 +3,6 @@
 <h3 align="center">A passionate to learn new things every day and stay up to date with front and back technology</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=souleimenblh&label=Profile%20views&color=0e75b6&style=flat" alt="souleimenblh" /> </p>
 
-<!-- <p align="left"> <img src="https://profile-readme-generator.com/assets/snake.svg" alt="snake" /> </p> -->
 
 
 - 🌱 I’m currently learning **Framework ,Programming Languages**
@@ -33,3 +32,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=souleimenblh&show_icons=true&locale=en" alt="souleimenblh" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=souleimenblh&" alt="souleimenblh" /></p>
+
+<p align="left"> <img src="https://profile-readme-generator.com/assets/snake.svg" alt="snake" /> </p>
