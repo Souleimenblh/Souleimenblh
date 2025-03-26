@@ -18,7 +18,7 @@
 
 ###
 
-<h1 align="center">💡 Welcome to My Digital Space!</h1>
+<h1 align="center">💡 Welcome to My digital space!</h1>
 
 ###
 
