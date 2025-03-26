@@ -1,6 +1,7 @@
-<div align="center">
-  <img height="150" src="https://media.giphy.com/media/A5yOQJ3X3y0Xyd476S/giphy.gif"  />
-</div>
+![image](https://github.com/user-attachments/assets/59e42cf3-0ca2-4477-9376-9dbc467687f9)
+
+
+
 
 ###
 
@@ -8,12 +9,13 @@
   <a href="https://www.linkedin.com/in/souleimenbelhadj/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=souleimenblh.souleimenblh&"  />
+
 </div>
 
 ###
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=souleimenblh.souleimenblh&"  />
 </div>
 
 ###
