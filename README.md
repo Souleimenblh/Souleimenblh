@@ -21,7 +21,6 @@
 <h1 align="center">📌 Tech-Powered & Innovation-Driven!</h1>
 
 ###
-<div align="center">
 
 <h3 align="left">🛠 Languages and Tools</h3>
 
@@ -92,7 +91,6 @@
 </div>
 
 ###
-</div>
 
 <h3 align="left">🔥   My Stats :</h3>
 
