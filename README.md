@@ -26,7 +26,7 @@
 
 ###
 
-<p align="left">💻 Passionate about technology, software development, and cloud computing<br><br>📚 Always eager to learn new technologies and stay up-to-date with front-end & back-end development<br><br>🎯 Open to collaborations, freelance projects, and new opportunities<br><br>🏅 Microsoft mcf & mos certified<br><br>📩 Reach me at: belhadjsouleimen13@gmail.com</p>
+<p align="left">💻 Passionate about technology, software development, and cloud computing<br>📚 Always eager to learn new technologies and stay up-to-date with front-end & back-end development<br>🎯 Open to collaborations, freelance projects, and new opportunities<br>🏅 Microsoft mcf & mos certified<br>📩 Reach me at: belhadjsouleimen13@gmail.com</p>
 
 ###
 
@@ -118,6 +118,10 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/souleimenblh/souleimenblh/output/snake.svg" alt="Snake animation" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/souleimenblh/souleimenblh/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/souleimenblh/souleimenblh/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/souleimenblh/souleimenblh/output/pacman-contribution-graph.svg">
+</picture>
 
 ###
