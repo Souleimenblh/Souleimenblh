@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://www.credly.com/badges/1137a3a8-df2c-45fd-a481-6dfaeb6a8c9d/public_url" target="_blank">
-    <img src="https://images.credly.com/size/680x680/images/024d0122-724d-4c5a-bd83-cfe3c4b7a073/image.png" alt="Credly Badge" width="300" height="300">
+    <img src="https://images.credly.com/size/680x680/images/024d0122-724d-4c5a-bd83-cfe3c4b7a073/image.png" alt="Credly Badge" width="500" height="500">
   </a>
 </div>
 
