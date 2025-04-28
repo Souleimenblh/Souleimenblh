@@ -1,5 +1,9 @@
+<div align="center">
+  <a href="https://www.credly.com/badges/1137a3a8-df2c-45fd-a481-6dfaeb6a8c9d/public_url" target="_blank">
+    <img src="https://images.credly.com/size/680x680/images/024d0122-724d-4c5a-bd83-cfe3c4b7a073/image.png" alt="Credly Badge" width="500" height="500">
+  </a>
+</div>
 
-![image](https://github.com/user-attachments/assets/2096739c-fe8f-4f8b-a13d-2245c32e65cc)
 
 ###
 
@@ -9,11 +13,6 @@
   </a>
   <img src="https://visitor-badge.laobi.icu/badge?page_id=souleimenblh.souleimenblh&"  />
 
-</div>
-
-###
-
-<div align="center">
 </div>
 
 ###
