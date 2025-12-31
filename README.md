@@ -3,7 +3,11 @@
     <img src="https://images.credly.com/size/680x680/images/024d0122-724d-4c5a-bd83-cfe3c4b7a073/image.png" alt="Credly Badge" width="400" height="400">
   </a>
 </div>
-
+<div align="center">
+  <a href="[https://www.credly.com/badges/1137a3a8-df2c-45fd-a481-6dfaeb6a8c9d/public_url](https://learn.microsoft.com/fr-fr/users/belhajsouleimen-2454/credentials/5abc6828fe1119f8?ref=https%3A%2F%2Fwww.linkedin.com%2F)" target="_blank">
+    <img src="[[https://images.credly.com/size/680x680/images/024d0122-724d-4c5a-bd83-cfe3c4b7a073/image.png](https://learn.microsoft.com/fr-fr/users/belhajsouleimen-2454/credentials/5abc6828fe1119f8?ref=https%3A%2F%2Fwww.linkedin.com%2F)](https://learn.microsoft.com/fr-fr/media/learn/certification/badges/github-copilot.svg)" alt="Credly Badge" width="400" height="400">
+  </a>
+</div>
 
 ###
 
